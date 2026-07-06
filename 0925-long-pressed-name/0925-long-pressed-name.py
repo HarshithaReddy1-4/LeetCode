@@ -14,8 +14,10 @@ class Solution:
                 return False
         if i != n:
             return False
-        while j < m:
-            if typed[j] != name[-1]:
-                return False
-            j += 1
+        if j < m and ''.join(set(typed[j:])) != name[-1]:
+            return False
+        # while j < m:
+        #     if typed[j] != name[-1]:
+        #         return False
+        #     j += 1
         return True
