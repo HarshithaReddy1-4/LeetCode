@@ -4,8 +4,8 @@ class Solution:
             return 1
         if n == 2:
             return 2
-        d = [1, 2]
+        prev1, prev2 = 2, 1
         for i in range(2, n):
-            d.append(d[-1]+d[-2])
-        return d[-1]
+            prev1, prev2 = prev1 + prev2, prev1
+        return prev1
         
