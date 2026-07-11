@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0925-long-pressed-name](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0925-long-pressed-name) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
