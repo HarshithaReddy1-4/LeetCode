@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 <!---LeetCode Topics End-->
