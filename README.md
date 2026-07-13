@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-long-pressed-name](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0925-long-pressed-name) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
@@ -97,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
