@@ -2,10 +2,11 @@ class Solution:
     def totalNQueens(self, n: int) -> int:
         rows, cols, posD, negD = set(), set(), set(), set()
         board = [['.'] * n for _ in range(n)]
-        res = []
+        res = 0
         def bt(i):
+            nonlocal res
             if i == n:
-                res.append([''.join(p) for p in board])
+                res += 1
                 return
             for j in range(n):
                 if i in rows or j in cols or i + j in posD or i - j in negD or board[i][j] == 'Q':
@@ -22,4 +23,4 @@ class Solution:
                 posD.discard(i + j)
                 negD.discard(i - j)
         bt(0)
-        return len(res)
+        return res
