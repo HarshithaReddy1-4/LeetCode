@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0052-n-queens-ii) |
