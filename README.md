@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
