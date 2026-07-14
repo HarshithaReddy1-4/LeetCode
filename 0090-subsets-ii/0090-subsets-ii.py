@@ -4,7 +4,7 @@ class Solution:
         res = []
 
         def func(i, l):
-            res.append(l[:])
+            res.append(l)
             
             for j in range(i, len(nums)):
                 if j > i and nums[j] == nums[j - 1]:
