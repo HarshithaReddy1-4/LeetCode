@@ -1,13 +1,14 @@
 class Solution:
     def numTriplets(self, nums1: List[int], nums2: List[int]) -> int:
-        def count(a, b):
+        def count(A, B):
+            product = Counter()
+
+            for i in range(len(B)):
+                for j in range(i + 1, len(B)):
+                    product[B[i] * B[j]] += 1
             ans = 0
-            for i in a:
-                target = i * i
-                d = Counter()
-                for j in b:
-                    if target % j == 0:
-                        ans += d[target // j]
-                    d[j] += 1
+            for x in A:
+                ans += product[x * x]
             return ans
+
         return count(nums1, nums2) + count(nums2, nums1)
