@@ -9,9 +9,7 @@ class Solution:
             for j in range(i, len(nums)):
                 if j > i and nums[j] == nums[j - 1]:
                     continue
-                l.append(nums[j])
-                func(j + 1, l)
-                l.pop()
+                func(j + 1, l + [nums[j]])
             
         func(0, [])
         return res
