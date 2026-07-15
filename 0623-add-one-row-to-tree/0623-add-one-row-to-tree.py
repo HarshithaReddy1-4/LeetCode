@@ -16,7 +16,7 @@ class Solution:
             if d == depth - 1:
                 node.left = TreeNode(val, node.left, None)
                 node.right = TreeNode(val, None, node.right)
-                return node
+                return
             func(node.left, d + 1)
             func(node.right, d + 1)
         func(root, 1)
