@@ -1,8 +1,9 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         l = 0
-        h = (len(matrix) * len(matrix[0])) - 1
         cols = len(matrix[0])
+        h = (len(matrix) * cols) - 1
+        
         while l <= h:
             mid = (l + h) // 2
             r = mid // cols
