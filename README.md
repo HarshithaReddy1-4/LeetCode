@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
+## Topological Sort
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
