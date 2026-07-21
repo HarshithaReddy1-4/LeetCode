@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
