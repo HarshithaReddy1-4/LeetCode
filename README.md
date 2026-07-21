@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
