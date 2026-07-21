@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
