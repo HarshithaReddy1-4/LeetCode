@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
