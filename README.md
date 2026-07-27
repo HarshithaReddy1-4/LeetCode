@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
