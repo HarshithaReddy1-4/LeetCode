@@ -1,6 +1,5 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        d = defaultdict(int)
         stack = []
         n = len(temperatures)
         ans = [0] * n
