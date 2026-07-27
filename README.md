@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
