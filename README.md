@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0925-long-pressed-name) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
