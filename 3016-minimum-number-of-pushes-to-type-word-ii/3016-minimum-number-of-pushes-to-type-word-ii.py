@@ -1,24 +1,11 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         d = Counter(word)
-        dd = {c: 0 for c in 'abcdefghijklmnopqrstuvwxyz'}
-        s = ''.join(sorted(word, key = lambda x: d[x], reverse = True))
-        ch = 1
-        key = 2
-        for i in s:
-            if dd[i] == 0:
-                dd[i] = ch
-                key += 1
-                if key == 10:
-                    ch += 1
-                    key = 2
+        s = sorted(d, key = d.get, reverse = True)
         count = 0
-        for k, v in dd.items():
-            count += v * d[k]
+
+        for i, ch in enumerate(s):
+            push = i // 8 + 1
+            count += d[ch] * push
         
         return count
-
-
-            
-
-        
