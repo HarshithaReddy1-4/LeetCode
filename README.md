@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -379,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
