@@ -1,6 +1,6 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-        for _ in range(10):
+        while True:
             prod = 1
             temp = n
             while temp > 0:
