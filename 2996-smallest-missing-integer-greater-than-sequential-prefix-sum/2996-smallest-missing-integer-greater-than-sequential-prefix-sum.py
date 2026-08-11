@@ -1,14 +1,14 @@
 class Solution:
     def missingInteger(self, nums: List[int]) -> int:
-        i = 0
         j = 1
+        ans = nums[0]
 
         while j < len(nums):
             if nums[j] != nums[j - 1] + 1:
                 break
+            ans += nums[j]
             j += 1
         
-        ans = sum(nums[0: j])
         nums = set(nums)
 
         while True:
