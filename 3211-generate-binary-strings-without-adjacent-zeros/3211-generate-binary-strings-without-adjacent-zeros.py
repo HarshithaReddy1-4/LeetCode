@@ -1,6 +1,8 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
         res = []
+
+        @cache
         def func(i, s, zero):
             if i == n:
                 res.append(s)
