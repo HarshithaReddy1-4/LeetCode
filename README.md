@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3731-find-missing-elements) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0090-subsets-ii) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
