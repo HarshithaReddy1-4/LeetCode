@@ -10,5 +10,4 @@ class Solution:
                 res.append(d[groupSizes[i]])
                 d[groupSizes[i]] = []
         
-        res.sort(key = lambda x: len(x))
         return res
