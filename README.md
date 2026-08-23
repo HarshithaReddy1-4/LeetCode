@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
