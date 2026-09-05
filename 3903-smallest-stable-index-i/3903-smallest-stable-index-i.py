@@ -12,10 +12,9 @@ class Solution:
             minvar = min(minvar, nums[i])
             maxx[i] = maxx[i] - minvar
 
-        idx = float("inf")
         for i in range(n):
             if maxx[i] <= k:
-                idx = min(idx, i)
+                return i
 
-        return idx if idx != float("inf") else -1
+        return -1
         
