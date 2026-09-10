@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0851-loud-and-rich](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0851-loud-and-rich) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
