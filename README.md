@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -469,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0494-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
