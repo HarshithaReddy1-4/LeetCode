@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshithaReddy1-4/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
